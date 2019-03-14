@@ -16,3 +16,10 @@
   <hr/>
   <h3> 준비물 </h3>
     Github ID, 백준 아이디, python
+  <h3> 풀 문제 </h3>
+  https://www.acmicpc.net/workbook/view/459 <br>
+  https://www.acmicpc.net/workbook/view/460 <br>
+  https://www.acmicpc.net/workbook/view/461 <br>
+https://www.acmicpc.net/workbook/view/1123 <br>
+https://www.acmicpc.net/workbook/view/1731 <br>
+https://www.acmicpc.net/workbook/view/1156
