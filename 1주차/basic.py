@@ -80,7 +80,7 @@ result = [x*y for x in range(2,10)
 # getInput
 a = input()
 a = int(input())            # get int
-a, b = map(int, input())    
+a, b = map(int, input().split())    
 
 # print
 print("life" "is" "short") is print("life"+"is"+"short")
