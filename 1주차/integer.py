@@ -36,3 +36,25 @@ a % b                   # 1
 
 # quotient
 a // b                  # 2
+
+# complex
+a = 2 + 3j              # 2 + 3i
+a.real                  # 2.0
+a.imag                  # 3.0
+a.conjugate()           # 2 - 3i
+
+# math
+import math
+math.pi                 # 3.141592.....
+math.e                  # 2.7182818.....
+math.trunc()            # rounddown
+round()                 # round
+abs()                   # abs
+math.factorial(n)       # n!
+math.degress()          # rad -> degress
+math.radians()          # degress -> rad
+# cos(),sin(),tan(),acos(),asin(),atan()
+math.pow(a,b)           # a ^ b
+math.sqrt(a)            # root a
+math.log(a,b)           # log b a // default = e
+math.log10(a)           # log10 a
