@@ -110,4 +110,9 @@ a.split(' ')                                # ['life','is','too','short']
 '3'.zfill(4)                                # '0003'
 '3'.rjust(4,'1')                            # '1113'
 
- 
+# isalpha
+'asdf'.isalpha()                            # True
+
+# isalnum
+'asdf2314'.isalnum()                        # True
+
