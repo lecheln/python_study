@@ -16,6 +16,8 @@
   <hr/>
   <h3> 준비물 </h3>
     Github ID, 백준 아이디, python
+    <br>
+    백준은 그룹으로 진행합니다.
   <h3> 풀 문제 </h3>
   https://www.acmicpc.net/workbook/view/459 <br>
   https://www.acmicpc.net/workbook/view/460 <br>
