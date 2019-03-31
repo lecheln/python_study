@@ -3,7 +3,7 @@ class 이름:
     변수 = ~~~
     def __init(self,~~~): # 생성자
 
-    def func(self, ~~~): # 원하는 함
+    def func(self, ~~~): # 원하는 함수
             self.변수 = 변수 # 데이터 저장
     
 
