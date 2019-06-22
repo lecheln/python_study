@@ -68,7 +68,7 @@ a = 'l' + a[1:]                             # 'life is too short, You need Pytho
 # 파이썬에서는 "문자열" % (변수~~~) 로 변경되었다.
 'test %d' % 5                               # 'test 5'
 'test %s' % 'ha'                            # 'test ha'
-'test case %d : %s' (2,'test')              # 'test case 2 : test'
+'test case %d : %s' % (2,'test')              # 'test case 2 : test'
 
 # 포멧 함수를 사용하는 방법
 'test {0}'.format(5)                        # 'test 5'
